@@ -131,12 +131,18 @@ oppo-sales-stock-analysis-powerbi/
 ├── Screenshots/
 │   ├── Sales_Dashboard.png
 │   └── Stock_Dashboard.png
+|   └── Model_View.png
+|   └── Table_Relationships.png
 │
 ├── Dataset/
-│   └── Sample_Data.xlsx
+│   └── Distributor.xlsx
+|   └── Retailer.xlsx
+|   └── Sales.xlsx
+|   └── SKU.xlsx
+|   └── Stocks.xlsx
 │
 └── PowerBI/
-    └── Oppo_Sales_Stock_Analysis.pbix
+    └── OppoMobiles.pbix
 ```
 
 ## Author
