@@ -111,6 +111,17 @@ The dashboard enables stakeholders to:
 * Data Visualization
 * Stakeholder Reporting
 
+## Key Skills
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Expert-yellow)
+![DAX](https://img.shields.io/badge/DAX-Advanced-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-Advanced-green)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Advanced-orange)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-Professional-purple)
+![Inventory Analytics](https://img.shields.io/badge/Inventory%20Analytics-Experienced-red)
+![Sales Analytics](https://img.shields.io/badge/Sales%20Analytics-Experienced-brightgreen)
+
+
 ## Project Structure
 
 ```text
